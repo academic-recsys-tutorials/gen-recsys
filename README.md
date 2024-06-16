@@ -1,2 +1,2 @@
 # gen-recsys
-The tutorial for ACM KDD 2024.
+The tutorial for the ACM KDD 2024.
